@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dylan Cupido</h1>
 <h3 align="center">A passionate developer from Cape Town</h3>
 
-- 🔭 I’m currently working on **a Staff Transportation Management site/app**
-
-- 🌱 I’m currently learning **React Native, Power Platform and Docker**
-
-- 💬 Ask me about **React, ASP.NET and SQLServer**
-
 - 📫 How to reach me **dylancupido47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
