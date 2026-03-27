@@ -10,8 +10,8 @@
 
 <p align="left">🚀 Junior Software Engineer @redAcademy<br><br>Focused on AI-enabled development and building high-velocity applications. I leverage agentic workflows with tools like Anti-Gravity and Lovable.dev to ship faster and smarter.<br><br>🎓 Graduate of redAcademy Sprinter & HyperionDev<br>🧪 Always building side projects to keep my core dev skills sharp.<br><br>“The best way to predict the future is to automate it."</p>
 
-<h1>Here are some tools I've touched:</h1>
-###
+<h3>Here are some tools I've touched:</h3>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
